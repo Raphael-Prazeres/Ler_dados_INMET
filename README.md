@@ -32,7 +32,7 @@ Para baixar os dados acesse: https://bdmep.inmet.gov.br/
 IMPORTANTE: Importante baixar as mesma variáveis, caso contrário fazer modificações nos Ajustes dos dados.
 
 
-Colar o caminho na primeira linha de código df = pd.read_csv('cole aqui!!!')
+Colar o caminho na primeira linha de código df = pd.read_csv('"cole aqui!"',delimiter=';', skiprows = range (0, 10))
 
 
 SEJA FELIZ!!!
