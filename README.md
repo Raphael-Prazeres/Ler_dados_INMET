@@ -8,7 +8,9 @@ Para baixar os dados acesse: https://bdmep.inmet.gov.br/
 
   ...
   
-  Variáveis: PRESSAO ATMOSFERICA AO NIVEL DA ESTACAO, HORARIA(mB);
+  Variáveis: 
+  
+            PRESSAO ATMOSFERICA AO NIVEL DA ESTACAO, HORARIA(mB);
   
             TEMPERATURA DO PONTO DE ORVALHO(Â°C);
             
